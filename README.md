@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabc123123
-- 👀 I’m interested in coding, web design and technology
+- 👀 I’m interested in Coding, WebDesign and Technology
 - 🌱 I’m currently learning JavaScript
 <!--
 - 💞️ I’m looking to collaborate on ...
