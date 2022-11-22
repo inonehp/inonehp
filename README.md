@@ -1,6 +1,6 @@
 README.md
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ```javascript
 let a = "Hello World!";
