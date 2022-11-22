@@ -2,6 +2,12 @@ README.md
 
 ### Hi there 👋
 
+```javascript
+let a = "Hello World!";
+console.log(a);
+alert(a);
+```
+
 <!--
 **gabc123123/gabc123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
