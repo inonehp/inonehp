@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [Basic writing and formatting syntax](https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <!-- README.md bottom in Github editor -->
+[Basic writing and formatting syntax](https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <!-- README.md bottom in Github editor -->
+
+##### [chrome custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/other/chrome-custom-new-tab/) | [firefox custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/firefox-extensions/custom-new-tab/)
+
+##### All others like games: tic tac toe, typing speed, themes for Firefox or themes for IDE editor on [main repository](https://github.com/gabc123123/gabc123123.github.io) or [https://gabc.tk/](https://gabc.tk/)
+
+
