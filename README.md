@@ -2,9 +2,9 @@
 
 
 
-### [chrome custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/other/chrome-custom-new-tab/) | [firefox custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/firefox-extensions/firefox-custom-new-tab/)
+[chrome custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/other/chrome-custom-new-tab/) | [firefox custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/firefox-extensions/firefox-custom-new-tab/)
 
-### All other, games: tic tac toe, typing speed, themes for Firefox or themes for (Geany IDE) editor on [main repository](https://github.com/gabc123123/gabc123123.github.io) or [https://gabc.tk/](https://gabc.tk/)
+All other, games: tic tac toe, typing speed, themes for Firefox or themes for (Geany IDE) editor on [main repository](https://github.com/gabc123123/gabc123123.github.io) or [https://gabc.tk/](https://gabc.tk/)
 
 
 <!--
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning JavaScript
