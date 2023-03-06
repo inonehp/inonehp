@@ -1,11 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
 
-other:
-[chrome custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/chrome-extensions/chrome-custom-new-tab/) | [firefox custom new tab](https://github.com/gabc123123/gabc123123.github.io/tree/main/firefox-extensions/firefox-custom-new-tab/)
-
-All other, games: tic tac toe, typing speed.Themes for Firefox or themes for (Geany IDE) editor on [main repository](https://github.com/gabc123123/gabc123123.github.io) or [https://gabc.tk/](https://gabc.tk/)
-
 
 <!--
 **gabc123123/gabc123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
