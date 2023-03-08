@@ -1,4 +1,4 @@
- README.md (onfig files for my GitHub profile.)
+ README.md (config files for my GitHub profile.)
  ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
 
