@@ -1,7 +1,7 @@
  README.md (config files for my GitHub profile.)
  ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
-
+- [All projects are here! In one place. (gabc123123.github.io | gabc.tk)](https://github.com/gabc123123/gabc123123.github.io)
 
 <!--
 **gabc123123/gabc123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
