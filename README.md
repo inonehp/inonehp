@@ -1,6 +1,6 @@
  README.md (config files for my GitHub profile.)
  ### Hi there 👋
-- 🌱 I’m currently learning En and JavaScript
+- 🌱 I’m currently learning EN and JavaScript
 - ⚡🔗 [gabc.tk](https://gabc.tk) ([source code](https://github.com/gabc123123/gabc123123.github.io))
 
 <!--
