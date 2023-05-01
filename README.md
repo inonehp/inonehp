@@ -1,6 +1,5 @@
  README.md (config files for my GitHub profile.)
  ### Hi there 👋
-- 🌱 I’m currently learning EN and JavaScript
 - ⚡🔗 All projects in one repository: [gabc22.github.io](https://gabc22.github.io) ([source code](https://github.com/gabc22/gabc22.github.io))
 
 <!--
