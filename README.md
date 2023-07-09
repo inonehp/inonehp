@@ -1,6 +1,11 @@
  README.md (config files for my GitHub profile.)
+ 
  ### Hi there 👋
-- ⚡🔗 All projects in one repository: [inonehp.github.io](https://inonehp.github.io) ([source code](https://github.com/inonehp/inonehp.github.io))
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+- ⚡ All projects in one repository: ([source code](https://github.com/inonehp/inonehp.github.io))
+- website:
+- 🌐 [inonehp.github.io](https://inonehp.github.io)
+- 🌐 [inonehp.pages.dev](https://inonehp.pages.dev/)
 
 <!--
 **inonehp/inonehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
