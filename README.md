@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
 - ⚡ All projects in one repository: ([source code](https://github.com/inonehp/inonehp.github.io))
 - website:
-- 🌐 [inonehp.github.io](https://inonehp.github.io)
 - 🌐 [inonehp.pages.dev](https://inonehp.pages.dev/)
 
 <!--
