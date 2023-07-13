@@ -1,9 +1,6 @@
  README.md (config files for my GitHub profile.)
  
- ### Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
-- ⚡ All projects in one repository: ([source code](https://github.com/inonehp/inonehp.github.io))
-- website:
+- ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
 - 🌐 [inonehp.pages.dev](https://inonehp.pages.dev/)
 
 <!--
