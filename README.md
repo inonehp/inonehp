@@ -1,7 +1,8 @@
  README.md (config files for my GitHub profile.)
  
-- ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
-- 🌐 [inonehp.pages.dev](https://inonehp.pages.dev/)
+ ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
+ 
+ 🌐 [inonehp.pages.dev](https://inonehp.pages.dev/)
 
 <!--
 **inonehp/inonehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
