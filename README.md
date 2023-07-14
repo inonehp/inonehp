@@ -1,8 +1,8 @@
  README.md (config files for my GitHub profile.)
  
-- `⚡ For Home page and other projects.`
-- `👍 I like Dev, Technology, Web Design, Music, Movies`
-- `🌱 I'm learning Web Design, HTML, CSS, JavaSript, PHP and English`
+- ⚡ For Home page and other projects
+- 👍 I like Dev, Technology, Web Design, Music, Movies
+- 🌱 I'm learning Web Design, HTML, CSS, JavaSript, PHP and English
 
 - 🌐 [https://inonehp.pages.dev](https://inonehp.pages.dev/)
 - ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
