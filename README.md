@@ -1,6 +1,6 @@
  README.md (config files for my GitHub profile.)
  
-* 🌐 [inonehp.pages.dev](https://inonehp.pages.dev/)
+* 🌐 [https://inonehp.pages.dev](https://inonehp.pages.dev/)
 * ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
 
 <!--
