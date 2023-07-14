@@ -1,11 +1,13 @@
- README.md (config files for my GitHub profile.)
+ README.md (config files for my GitHub profile.)  
  
- ⚡ For Home page and other projects  
- 👍 I like Dev, Technology, Web Design, Music, Movies
-- 🌱 I'm learning Web Design, HTML, CSS, JavaSript, PHP and English
+⚡ Home page and other projects  
+👍 I like Dev, Technology, Web Design, Music, Movies  
+🌱 I'm learning Web Design, HTML, CSS, JavaSript, PHP and English
 
-- 🌐 [https://inonehp.pages.dev](https://inonehp.pages.dev/)
-- ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
+🌐 [https://inonehp.pages.dev](https://inonehp.pages.dev/)  
+🖥️ [source code](https://github.com/inonehp/inonehp.github.io)  
+
+⚡ 2 sapce: `<br>`
 
 <!--
 **inonehp/inonehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
