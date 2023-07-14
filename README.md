@@ -1,6 +1,6 @@
  README.md (config files for my GitHub profile.)  
  
-⚡ Home page and other projects  
+⚡ For home page and other projects  
 👍 I like Dev, Technology, Web Design, Music, Movies  
 🌱 I'm learning Web Design, HTML, CSS, JavaSript, PHP and English
 
