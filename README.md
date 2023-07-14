@@ -4,8 +4,8 @@
 - 👍 I like Dev, Technology, Web Design, Music, Movies.
 - 🌱 I'm learning Web Design, HTML, CSS, JavasSript, PHP and English
 
-* 🌐 [https://inonehp.pages.dev](https://inonehp.pages.dev/)
-* ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
+- 🌐 [https://inonehp.pages.dev](https://inonehp.pages.dev/)
+- ⚡ [source code](https://github.com/inonehp/inonehp.github.io)
 
 <!--
 **inonehp/inonehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
