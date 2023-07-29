@@ -2,7 +2,7 @@
 
 ℹ️ For home page and other projects  
 👍 I like: Web Dev, Web Design, Technology, Music, Movies  
-🌱 I'm using and learning: Web Design, HTML, CSS, JavaSript, PHP and English  
+🌱 I'm using and learning (self-taught): Web Design, HTML, CSS, JavaSript, PHP and English  
   
 🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)  
 📁 [Source Code](https://github.com/inonehp/inonehp.github.io)  
