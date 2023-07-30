@@ -7,7 +7,7 @@
 🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)  
 📁 [Source Code](https://github.com/inonehp/inonehp.pages.dev)  
 
-2 sapce - br: `<br> <!--https://stackoverflow.com/questions/45113083/how-to-remove-extra-line-space-on-github-markdown-bullets-lists#-->`
+2 space - br: `<br> <!--https://stackoverflow.com/questions/45113083/how-to-remove-extra-line-space-on-github-markdown-bullets-lists#-->`
 
 <!--
 **inonehp/inonehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
