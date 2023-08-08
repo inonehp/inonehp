@@ -7,7 +7,7 @@
 🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)  
 📁 [Source Code](https://github.com/inonehp/inonehp.pages.dev)  
 
-⚡ Fun fact:
+⚡ Fun fact:  
 - 2 space - br: `<br> <!--https://stackoverflow.com/questions/45113083/how-to-remove-extra-line-space-on-github-markdown-bullets-lists#-->`.  
 - In the bottom README.md you find this link for makdown syntax: https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 
