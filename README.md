@@ -1,7 +1,6 @@
 
 
-⚪ All projects in one repository.    
-  
+⚪ For home page and all projects in one repository.  
 🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)  
 🔗 [http://ix.my.to](http://ix.my.to/)  
 📁 [Source code repository](https://github.com/inonehp/inonehp.pages.dev)  
