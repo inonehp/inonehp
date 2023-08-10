@@ -2,7 +2,8 @@
 
 ⚪ All projects in one repository.    
   
-🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)  
+🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)
+🔗 [https://ix.my.to](https://ix.my.to/)
 📁 [Source Code](https://github.com/inonehp/inonehp.pages.dev)  
 
 <!--
