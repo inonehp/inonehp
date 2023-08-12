@@ -1,8 +1,8 @@
 
 
-⚪ Home page and projects (all in one repository).   
-🔗 [https://inonehp.pages.dev](https://inonehp.pages.dev/)   
-📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
+· Home page and projects (all in one repository).   
+· [https://inonehp.pages.dev](https://inonehp.pages.dev/)   
+· [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 
 <!--
 **inonehp/inonehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
