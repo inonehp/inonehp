@@ -1,6 +1,6 @@
 
 
-· Home page and projects (all in one repository).   
+· All in one repository (home page and projects).   
 · [https://inonehp.pages.dev](https://inonehp.pages.dev/)   
 · [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 
