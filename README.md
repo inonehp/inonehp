@@ -1,7 +1,7 @@
 
 
 · All in one repository (home page and projects).   
-· [inonehp.pages.dev](https://inonehp.pages.dev/) ([iabc.us.to](http://iabc.us.to/))   
+· [inonehp.pages.dev](https://inonehp.pages.dev/)   
 · [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 
 
