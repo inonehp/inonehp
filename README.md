@@ -1,10 +1,9 @@
 
-
-· All in one repository (home page and projects).   
-· [inonehp.pages.dev](https://inonehp.pages.dev/)   
-· [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
-
-
+· 🌱 I'm using and learn: HTML, CSS, PHP, MySQL,JavaSript.  
+· ⚪ All in one repository: home page and projects.   
+· 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
+· 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
+· ⚡ Fun fact: In Internet only about 200 million active websites of the 1.13 billion ([www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/))  
 
 
 <!--
