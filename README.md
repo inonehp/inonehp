@@ -1,5 +1,4 @@
 
-· 🌱 I'm using and learn: HTML, CSS, PHP, MySQL, JavaSript.  
 · ⚪ All in one repository: home page and projects.  
 · 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 · 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
