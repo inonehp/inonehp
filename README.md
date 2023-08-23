@@ -1,5 +1,5 @@
 
-· ⚪ All in one repository: home page and projects.  
+· ⚪ All in one repository: home page and projects.   · 🌱 I’m currently learning HTML, CSS, PHP, JavaScript  
 · 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 · 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
   
