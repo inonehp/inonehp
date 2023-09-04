@@ -1,6 +1,7 @@
 
 · ⚪ All in one repository: home page and projects.  
-· 🌱 I’m currently learning HTML, CSS, PHP, JavaScript.  
+· 🌱 I’m currently learning JavaScript. 
+· 🦝 I'm using HTML, CSS, PHP, MySQL, JavaScript. 
 · 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 · 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
   
