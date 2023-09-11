@@ -1,5 +1,5 @@
 
-· ⚪ All in one repository: home page and projects.  
+· ⚪ All in one repository: Hme Page, Projects, Portfolio.  
 · 🌱 I’m currently learning JavaScript.  
 · 🦝 I'm using and continue learning: HTML, CSS, PHP, MySQL, and JavaScript.  
 · ⚡ Fun fact: In Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
