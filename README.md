@@ -1,7 +1,8 @@
 
-✪ All in one repository: Home page, projects, and portfolio.  
+✪ I am trying to create a website template.
+<!--✪ All in one repository: Home page, projects, and portfolio.  -->
 🌱 I’m currently learning JavaScript.  
-🦝 I'm using and continue learning: HTML, CSS, PHP, MySQL, and JavaScript (self-taught).  
+<!--🦝 I'm using and continue learning: HTML, CSS, PHP, MySQL, and JavaScript (self-taught).  -->
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
 📁 [Source Code, Repository](https://github.com/inonehp/inonehp.pages.dev)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
