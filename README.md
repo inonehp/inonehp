@@ -1,6 +1,6 @@
 
 
-∷ It was a bad idea and looked terrible to do 1 commit to many changed files
+
 
 🌱 I’m currently learning JavaScript.  
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
