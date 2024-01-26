@@ -1,4 +1,4 @@
-<div style="background: red;">
+<div style="background-color: red; color: orange">
 div test HTML
 </div>
 
