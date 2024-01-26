@@ -1,5 +1,5 @@
-<style>
-body { background: red; }
+<div style="background: red;">
+div test HTML
 </style>
 
 
