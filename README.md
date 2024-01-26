@@ -1,8 +1,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/115393328?v=4" width="24px" alt="ava">
-
+---  
 🌱 I’m currently learning JavaScript and learn how to use GitHub.  
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
+---  
 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
   
