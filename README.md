@@ -9,7 +9,7 @@
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
 <br>
 <strong>Other:</strong>  
-📁 Automatic theme change: [/lists/automatic-theme-change](https://github.com/stars/inonehp/lists/automatic-theme-change)  
+📋 Automatic theme change: [/lists/automatic-theme-change](https://github.com/stars/inonehp/lists/automatic-theme-change)  
 
 
 <!--
