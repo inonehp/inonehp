@@ -8,9 +8,7 @@
 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
 
----
-<strong>Other:</strong>  
-📋 Automatic theme change: [/lists/automatic-theme-change](https://github.com/stars/inonehp/lists/automatic-theme-change)  
+ 
 
 
 <!--
