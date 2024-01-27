@@ -4,7 +4,7 @@
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
 
 ---
-<strong>Main:</strong>  
+<strong>Projects:</strong>  
 📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
 
