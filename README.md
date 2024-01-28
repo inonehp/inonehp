@@ -1,4 +1,4 @@
-<!-- About v.1.1.0 -->
+<!-- About v.1.1.1 -->
 
 # About:  
 
@@ -15,7 +15,7 @@
 📁 [Porject ideas](https://github.com/inonehp/project-ideas)  
   
 ---
-## Debugging:
+## 🐞 Debugging:
 - `.class { border 1px solid red; }`
 - `alert(varName);`
 - `console.log(varName);`
