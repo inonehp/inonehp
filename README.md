@@ -31,6 +31,7 @@
 ## 🏷️ Speed Dial:
 ### ⭐ [Explore](https://github.com/explore)
 
+[#Challenge](https://github.com/topics/challenge),
 [#Learning](https://github.com/topics/learning),
 [#Tutorials](https://github.com/topics/tutorials),
 [#CSS](https://github.com/topics/css),
@@ -42,16 +43,16 @@
 [#Website](https://github.com/topics/website),
 [#Home Page](https://github.com/topics/homepage),
 [#Personal](https://github.com/topics/personal),
-[#Website Template](https://github.com/topics/website-template)  
 
 [#WebDesign](https://github.com/topics/webdesign),
 [#Web](https://github.com/topics/web),
 [#Design](https://github.com/topics/design),
-[#Design System](https://github.com/topics/design-system),
-[#Theme](https://github.com/topics/theme),  
-
 [#UI](https://github.com/topics/ui),
-[#UX](https://github.com/topics/ux),  
+[#UX](https://github.com/topics/ux), 
+[#Design System](https://github.com/topics/design-system),
+[#Website Template](https://github.com/topics/website-template)  
+[#Template](https://github.com/topics/template),
+[#Theme](https://github.com/topics/theme),  
 
 [#Open Source](https://github.com/topics/open-source),
 [#Project](https://github.com/topics/project),
