@@ -17,7 +17,8 @@
 ---
   
 > [!NOTE]
-> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "When you're editing the README.md file, you can find the Markdown formatting syntax at the bottom right corner").
+> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "Title")  
+> When you're editing the README.md file, you can find the Markdown formatting syntax at the bottom right corner.
   
 ---
   
