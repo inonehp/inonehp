@@ -5,7 +5,13 @@
 🌱 I’m currently learning JavaScript and learn how to use GitHub.  
 📜 `console.table(varName);`  
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
-🌗 To make themes change automatically: [/lists/auto-theme-change](https://github.com/stars/inonehp/lists/auto-theme-change)  
+🌗 To make themes change automatically: [/lists/auto-theme-change](https://github.com/stars/inonehp/lists/auto-theme-change)
+
+---
+  
+## Projects:  
+📁 [Home page and projects](https://github.com/inonehp/inonehp.pages.dev)  
+📁 [Porject ideas](https://github.com/inonehp/project-ideas)  
   
 ---
   
