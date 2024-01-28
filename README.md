@@ -20,7 +20,8 @@
   
 ---
   
-## 🏷️ Speed Dial: [EXPLORE](https://github.com/explore)
+## 🏷️ Speed Dial:
+[EXPLORE](https://github.com/explore)
 
 [#Learning](https://github.com/topics/learning),
 [#Tutorials](https://github.com/topics/tutorials),
