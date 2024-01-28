@@ -1,4 +1,4 @@
-<!-- About v.1.0.1 -->
+<!-- About v.1.1.0 -->
 
 # About:  
 
@@ -15,8 +15,13 @@
 📁 [Porject ideas](https://github.com/inonehp/project-ideas)  
   
 ---
-  
+## Debugging:
+- `.class { border 1px solid red; }`
+- `alert(varName);`
+- `console.log(varName);`
 
+---
+  
 > [!NOTE]
 > [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - When you're editing the README.md file, you can find the Markdown formatting syntax at the bottom right corner.  
 <!-- https://github.com/mattcone/markdown-guide#-->  
