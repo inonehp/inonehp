@@ -8,7 +8,7 @@
 🌗 To make themes change automatically: [/lists/auto-theme-change](https://github.com/stars/inonehp/lists/auto-theme-change)  
   
 ---
-### ∷ Projects: 
+## ∷ Projects: 
 📁 [Source code](https://github.com/inonehp/inonehp.pages.dev) (repository)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
 
@@ -19,7 +19,7 @@
   
 ---
   
-### 🏷️ Speed Dial: [EXPLORE](https://github.com/explore)
+## 🏷️ Speed Dial: [EXPLORE](https://github.com/explore)
 
 [#Learning](https://github.com/topics/learning),
 [#Tutorials](https://github.com/topics/tutorials),
@@ -40,7 +40,6 @@
 [#Projects](https://github.com/topics/projects),
 [#WebApp](https://github.com/topics/webapp),
 [#App](https://github.com/topics/app),
-
 
 
 <!--
