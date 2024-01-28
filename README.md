@@ -1,4 +1,4 @@
-<!-- About v.1.0.0 -->
+<!-- About v.1.0.1 -->
 
 # About:  
 
@@ -23,7 +23,7 @@
 ---
   
 ## 🏷️ Speed Dial:
-[EXPLORE](https://github.com/explore)
+### [Explore](https://github.com/explore)
 
 [#Learning](https://github.com/topics/learning),
 [#Tutorials](https://github.com/topics/tutorials),
