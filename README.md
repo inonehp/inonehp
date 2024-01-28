@@ -16,38 +16,41 @@
   
 ---
   
+<!-- title: https://github.com/mattcone/markdown-guide#-->  
+- [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "Title") - When you're editing the README.md file, you can find the Markdown formatting syntax at the bottom right corner.
+<!--
 > [!NOTE]
-> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "Title")  <!-- title: https://github.com/mattcone/markdown-guide#-->  
-> When you're editing the README.md file, you can find the Markdown formatting syntax at the bottom right corner.
+> text
+-->
   
 ---
   
 ## 🏷️ Speed Dial:
 ### [Explore](https://github.com/explore)
 
+#️⃣
 [#Learning](https://github.com/topics/learning),
 [#Tutorials](https://github.com/topics/tutorials),
 [#CSS](https://github.com/topics/css),
 [#HTML](https://github.com/topics/html),
 [#JavaScript](https://github.com/topics/javascript),
 [#WebDev](https://github.com/topics/webdev),
-[#Dev](https://github.com/topics/dev),
-
+[#Dev](https://github.com/topics/dev)
+#️⃣
 [#Website](https://github.com/topics/website),
 [#Home Page](https://github.com/topics/homepage),
 [#Personal](https://github.com/topics/personal),
-[#Website Template](https://github.com/topics/website-template),  
-
+[#Website Template](https://github.com/topics/website-template)
+#️⃣
 [#WebDesign](https://github.com/topics/webdesign),
 [#Web](https://github.com/topics/web),
 [#Design](https://github.com/topics/design),
 [#Design System](https://github.com/topics/design-system),
-[#Theme](https://github.com/topics/theme),
-
+[#Theme](https://github.com/topics/theme)
+#️⃣
 [#UI](https://github.com/topics/ui),
 [#UX](https://github.com/topics/ux),
-
-
+#️⃣
 [#Open Source](https://github.com/topics/open-source),
 [#Project](https://github.com/topics/project),
 [#Projects](https://github.com/topics/projects),
