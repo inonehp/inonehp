@@ -27,10 +27,13 @@
 [#Website](https://github.com/topics/website),
 [#Home Page](https://github.com/topics/homepage),
 [#Personal](https://github.com/topics/personal),
+[#Website Template](https://github.com/topics/website-template),  
+
 [#WebDesign](https://github.com/topics/webdesign),
-[#Website Template](https://github.com/topics/website-template),
-[#Design system](https://github.com/topics/design-system),
-[#design](https://github.com/topics/design),
+[#Web](https://github.com/topics/web),
+[#Design](https://github.com/topics/design),
+[#Design system](https://github.com/topics/design-system),  
+
 [#UI](https://github.com/topics/ui),
 [#UX](https://github.com/topics/ux),
 
