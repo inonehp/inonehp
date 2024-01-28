@@ -1,5 +1,5 @@
   
-# ℹ About:  
+# About:  
 
 
 🌱 I’m currently learning JavaScript and learn how to use GitHub.
