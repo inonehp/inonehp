@@ -29,6 +29,10 @@
 [#Personal](https://github.com/topics/personal),
 [#WebDesign](https://github.com/topics/webdesign),
 [#Website Template](https://github.com/topics/website-template),
+[#Design system](https://github.com/topics/design-system),
+[#design](https://github.com/topics/design),
+[#UI](https://github.com/topics/ui),
+[#UX](https://github.com/topics/ux),
 
 
 [#Open Source](https://github.com/topics/open-source),
