@@ -12,7 +12,7 @@
 
   ---
   
-**🏷️ Speed dial:**  
+**🏷️ Speed dial (GitHub topics):**  
 [#Learning](https://github.com/topics/learning),
 [#CSS](https://github.com/topics/css),
 [#HTML](https://github.com/topics/html),
