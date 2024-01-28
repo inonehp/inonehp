@@ -11,7 +11,7 @@
 ---
   
 ### ∷ Projects: 
-📁 [Source code, repository](https://github.com/inonehp/inonehp.pages.dev)  
+📁 [Source code](https://github.com/inonehp/inonehp.pages.dev) (repository)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
 
 ---
