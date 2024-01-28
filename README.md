@@ -39,7 +39,7 @@
 [#WebDesign](https://github.com/topics/webdesign),
 [#Web](https://github.com/topics/web),
 [#Design](https://github.com/topics/design),
-[#Design system](https://github.com/topics/design-system),
+[#Design System](https://github.com/topics/design-system),
 [#Theme](https://github.com/topics/theme),
 
 [#UI](https://github.com/topics/ui),
