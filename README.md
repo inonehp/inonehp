@@ -10,7 +10,7 @@
 
 ---
   
-## ∷ Projects:  
+## 🗂 Projects:  
 📁 [Home page and projects](https://github.com/inonehp/inonehp.pages.dev)  
 📁 [Porject ideas](https://github.com/inonehp/project-ideas)  
   
