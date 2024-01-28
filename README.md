@@ -6,15 +6,17 @@
   
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
 🌗 To make themes change automatically: [/lists/auto-theme-change](https://github.com/stars/inonehp/lists/auto-theme-change)  
-
-> [!TIP]
-> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Basic writing and formatting syntax (when editing README.md, it is at the bottom right).
----
   
+---
 ### ∷ Projects: 
 📁 [Source code](https://github.com/inonehp/inonehp.pages.dev) (repository)  
 🔗 [inonehp.pages.dev](https://inonehp.pages.dev/)   
 
+---
+  
+> [!TIP]
+> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Basic writing and formatting syntax (when editing README.md, it is at the bottom right).
+  
 ---
   
 ### 🏷️ Speed Dial: [EXPLORE](https://github.com/explore)
