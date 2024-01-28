@@ -16,9 +16,8 @@
 
 ---
   
-### 🏷️ Speed dial:
+### 🏷️ Speed dial [EXPLORE](https://github.com/explore): 
 
-[EXPLORE](https://github.com/explore): 
 [#Learning](https://github.com/topics/learning),
 [#Tutorials](https://github.com/topics/tutorials),
 [#CSS](https://github.com/topics/css),
@@ -30,7 +29,6 @@
 [#Home Page](https://github.com/topics/homepage),
 [#Personal](https://github.com/topics/personal),
 [#WebDesign](https://github.com/topics/webdesign),
-
 
 [#Open Source](https://github.com/topics/open-source),
 [#Project](https://github.com/topics/project),
