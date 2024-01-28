@@ -13,13 +13,13 @@
   ---
   
 **🏷️ Speed dial:**  
-[Learning](https://github.com/topics/learning),
-[CSS](https://github.com/topics/css),
-[HTML](https://github.com/topics/html),
-[JavaScript](https://github.com/topics/javascript),
-[WebDesign](https://github.com/topics/webdesign),
-[WebDev](https://github.com/topics/webdev),
-[Website](https://github.com/topics/website),
+[#Learning](https://github.com/topics/learning),
+[#CSS](https://github.com/topics/css),
+[#HTML](https://github.com/topics/html),
+[#JavaScript](https://github.com/topics/javascript),
+[#WebDesign](https://github.com/topics/webdesign),
+[#WebDev](https://github.com/topics/webdev),
+[#Website](https://github.com/topics/website),
 
 
 
