@@ -3,6 +3,7 @@
 🌱 I’m currently learning JavaScript and learn how to use GitHub.  
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
 🌗 To make themes change automatically: [/lists/auto-theme-change](https://github.com/stars/inonehp/lists/auto-theme-change)  
+[📄 Markdown (Basic writing and formatting syntax)](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   
 ---
   
