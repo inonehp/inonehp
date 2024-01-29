@@ -19,8 +19,8 @@
 ---
 ## 🐞 Debugging:
 - `.class { border 1px solid red; }`
-- `alert(varName);`
-- `console.log(varName);`
+- `alert("teset");`
+- `console.log("test");`
 
 ---
   
