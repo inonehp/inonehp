@@ -32,7 +32,7 @@
 [#HTML](https://github.com/topics/html),
 [#JavaScript](https://github.com/topics/javascript),
 [#WebDev](https://github.com/topics/webdev),
-[#Dev](https://github.com/topics/dev)  
+[#Dev](https://github.com/topics/dev)
 
 [#Website](https://github.com/topics/website),
 [#Home Page](https://github.com/topics/homepage),
@@ -46,7 +46,7 @@
 [#Design System](https://github.com/topics/design-system),
 [#Website Template](https://github.com/topics/website-template)  
 [#Template](https://github.com/topics/template),
-[#Theme](https://github.com/topics/theme),  
+[#Theme](https://github.com/topics/theme),
 
 [#Open Source](https://github.com/topics/open-source),
 [#Project](https://github.com/topics/project),
