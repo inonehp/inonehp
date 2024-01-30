@@ -12,7 +12,7 @@
 - `.class { border 1px solid red; }`
 - `alert("test");`
 - `console.log("test");`
-- `console.table(varName);`
+- `console.table("test");`
   
 ---
   
