@@ -19,8 +19,7 @@
 ---
   
 > [!NOTE]
-> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-<!-- https://github.com/mattcone/markdown-guide#-->  
+> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
   
 ---
   
