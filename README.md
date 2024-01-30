@@ -9,7 +9,9 @@
 ---
   
 ## 🐞 Debug:
+- **CSS:**
 - `.class { border 1px solid red; }`
+- **JavaScript:**
 - `alert("test");`
 - `console.log("test");`
 - `console.table("test");`
@@ -37,7 +39,6 @@
 [#Website](https://github.com/topics/website),
 [#Home Page](https://github.com/topics/homepage),
 [#Personal](https://github.com/topics/personal),
-
 [#WebDesign](https://github.com/topics/webdesign),
 [#Web](https://github.com/topics/web),
 [#Design](https://github.com/topics/design),
