@@ -3,7 +3,7 @@
 # About:  
 
 👋 Hello.  
-🌱 I’m currently learning JavaScript and learn how to use GitHub.  
+🌱 I’m currently learning JavaScript and how to use GitHub.  
   
 ---
   
