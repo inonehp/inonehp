@@ -8,7 +8,7 @@
   
 ---
   
-## 🐞 Debug:
+## Debug:
 - **CSS:**
 - `.class { border 1px solid red; }`
 - **JavaScript:**
@@ -23,8 +23,8 @@
   
 ---
   
-## 🏷️ Speed Dial:
-### ⭐ [Explore](https://github.com/explore)
+## Speed Dial:
+### [Explore](https://github.com/explore)
 
 [#Challenge](https://github.com/topics/challenge),
 [#Learning](https://github.com/topics/learning),
