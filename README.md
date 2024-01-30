@@ -3,8 +3,7 @@
 # About:  
 
 👋 Hello.  
-🌱 I’m currently learning JavaScript and learn how to use GitHub.  
-📜 `console.table(varName);`  
+🌱 I’m currently learning JavaScript and learn how to use GitHub.    
 ⚡ Fun fact: in Internet only about 200 million active websites of the 1.13 billion ([source: www.forbes.com](https://www.forbes.com/advisor/business/software/website-statistics/)).  
   
 ---
@@ -13,7 +12,8 @@
 - `.class { border 1px solid red; }`
 - `alert("test");`
 - `console.log("test");`
-
+- `console.table(varName);`
+  
 ---
   
 > [!NOTE]
