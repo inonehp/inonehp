@@ -42,9 +42,7 @@
 [#Design](https://github.com/topics/design),
 [#UI](https://github.com/topics/ui),
 [#UX](https://github.com/topics/ux), 
-[#Design System](https://github.com/topics/design-system),
-[#Website Template](https://github.com/topics/website-template)  
-[#Template](https://github.com/topics/template),
+[#Design System](https://github.com/topics/design-system), [#Website Template](https://github.com/topics/website-template), [#Template](https://github.com/topics/template),
 [#Theme](https://github.com/topics/theme),
 
 [#Open Source](https://github.com/topics/open-source),
