@@ -4,7 +4,7 @@
 
 👋 Hello.  
 🌱 I’m currently learning JavaScript and learn how to use GitHub.    
-⚡ Fun fact: in Internet only about 200 million active websites. ([www.forbes.com](https://www.forbes.com/advisor/in/business/software/website-statistics/#)).  
+⚡ Fun fact: in Internet only about 200 million active websites. ([www.forbes.com](https://www.forbes.com/advisor/in/business/software/website-statistics/#:~:text=more%20Show%20less-,General%20Website%20Statistics,India%2C%20we%20have%205%2C708%2C965%20websites.)).  
   
 ---
   
