@@ -1,5 +1,7 @@
 <!-- About v.1.2.0 -->
 
+![profile banner](github-profile-banner.png)  
+
 # About:  
 
 👋 Hello.  
