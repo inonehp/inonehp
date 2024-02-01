@@ -4,9 +4,8 @@
 
 👋 Hello.  
 🌱 I’m currently learning JavaScript and how to use GitHub.  
-  
----
-  
+👍 I like web design, web development, and coding.
+
 ## Debug:
 - **CSS:**
 - `.class { border 1px solid red; }`
@@ -14,6 +13,15 @@
 - `alert("test");`
 - `console.log("test");`
 - `console.table("test");`
+  
+## Tags:
+[#Profile](https://github.com/topics/profile?s=updated),
+[#Template](https://github.com/topics/template?s=updated),
+[#GitHub Profile](https://github.com/topics/github-profile?s=updated),
+[#Config](https://github.com/topics/config?s=updated),
+[#GitHub Config](https://github.com/topics/github-config?s=updated),
+[#Profile Readme](https://github.com/topics/profile-readme?s=updated),
+[#GitHub Profile Readme](https://github.com/topics/github-profile-readme?s=updated),
   
 ---
   
