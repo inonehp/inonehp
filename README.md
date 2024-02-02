@@ -1,6 +1,6 @@
 <!-- About v.1.2.1 -->
 
-![profile banner](github-profile-banner.png)
+![profile banner](github-profile-banner-page.png)
 
 # ℹ️ About:  
 
