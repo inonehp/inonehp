@@ -9,9 +9,9 @@
 👍 I like web design, web development, and coding.
 
 ## 🐞 Debug:
-- **CSS:**
+- **🎨 CSS:**
 - `.class { border 1px solid red; }`
-- **JavaScript:**
+- **📜 JavaScript:**
 - `alert("test");`
 - `console.log("test");`
 - `console.table("test");`
