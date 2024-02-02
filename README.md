@@ -19,7 +19,7 @@
 ## ⭐ Speed dial:
 [#website](https://github.com/topics/website?s=updated),
 [#Portfolio](https://github.com/topics/portfolio?s=updated),
-[#JavaScript](https://github.com/javascript/template?s=updated),
+[#JavaScript](https://github.com/javascript/javascript?s=updated),
 [#CSS](https://github.com/topics/css?s=updated),
 [#Game](https://github.com/topics/game?s=updated),
 [#App](https://github.com/topics/app?s=updated),
