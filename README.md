@@ -2,13 +2,13 @@
 
 ![profile banner](github-profile-banner.png)
 
-# About:  
+# ℹ️ About:  
 
 👋 Hello.  
 🌱 I’m currently learning JavaScript and how to use GitHub.  
 👍 I like web design, web development, and coding.
 
-## Debug:
+## 🐞 Debug:
 - **CSS:**
 - `.class { border 1px solid red; }`
 - **JavaScript:**
@@ -16,7 +16,7 @@
 - `console.log("test");`
 - `console.table("test");`
   
-## Tags:
+## 🏷️ Tags:
 [#Profile](https://github.com/topics/profile?s=updated),
 [#Template](https://github.com/topics/template?s=updated),
 [#GitHub Profile](https://github.com/topics/github-profile?s=updated),
