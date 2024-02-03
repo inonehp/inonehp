@@ -28,6 +28,7 @@ GitHub explore:
   
 ---
 
+<!-- Speed dial v.1.0.0 -->
 ## ⭐ Speed dial
 GitHub explore: 
 [#Website](https://github.com/topics/website?s=updated),
