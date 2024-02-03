@@ -1,4 +1,4 @@
-<!-- About v.1.2.1 -->
+<!-- About v.1.2.2 -->
 
 ![profile banner](github-profile-banner-page.png)
 
@@ -27,7 +27,7 @@
   
 ---
 
-## ⭐ Speed dial:
+## ⭐ Speed dial (GitHub explore):
 [#Website](https://github.com/topics/website?s=updated),
 [#Homepage](https://github.com/topics/homepage?s=updated),
 [#Portfolio](https://github.com/topics/portfolio?s=updated),
