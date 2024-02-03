@@ -28,12 +28,16 @@
 ---
 
 ## ⭐ Speed dial:
-[#website](https://github.com/topics/website?s=updated),
+[#Website](https://github.com/topics/website?s=updated),
+[#Homepage](https://github.com/topics/homepage?s=updated),
 [#Portfolio](https://github.com/topics/portfolio?s=updated),
+[#HTML](https://github.com/javascript/HTML?s=updated),
 [#JavaScript](https://github.com/javascript/javascript?s=updated),
 [#CSS](https://github.com/topics/css?s=updated),
 [#Game](https://github.com/topics/game?s=updated),
 [#App](https://github.com/topics/app?s=updated),
+[#Software](https://github.com/topics/software?s=updated),
+[#Extension](https://github.com/topics/extension?s=updated),
 
 ---
   
