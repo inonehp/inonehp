@@ -1,4 +1,5 @@
-<!-- About v.1.2.3 -->
+<!-- About v.1.2.4 -->
+<!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
 ![profile banner](github-profile-banner-page.png)
 
