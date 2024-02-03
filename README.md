@@ -15,14 +15,6 @@
 - `alert("test");`
 - `console.log("test");`
 - `console.table("test");`
-
-## ⭐ Speed dial:
-[#website](https://github.com/topics/website?s=updated),
-[#Portfolio](https://github.com/topics/portfolio?s=updated),
-[#JavaScript](https://github.com/javascript/javascript?s=updated),
-[#CSS](https://github.com/topics/css?s=updated),
-[#Game](https://github.com/topics/game?s=updated),
-[#App](https://github.com/topics/app?s=updated),
   
 ## 🏷️ Tags:
 [#Profile](https://github.com/topics/profile?s=updated),
@@ -33,6 +25,16 @@
 [#Profile Readme](https://github.com/topics/profile-readme?s=updated),
 [#GitHub Profile Readme](https://github.com/topics/github-profile-readme?s=updated),
   
+---
+
+## ⭐ Speed dial:
+[#website](https://github.com/topics/website?s=updated),
+[#Portfolio](https://github.com/topics/portfolio?s=updated),
+[#JavaScript](https://github.com/javascript/javascript?s=updated),
+[#CSS](https://github.com/topics/css?s=updated),
+[#Game](https://github.com/topics/game?s=updated),
+[#App](https://github.com/topics/app?s=updated),
+
 ---
   
 > [!NOTE]
