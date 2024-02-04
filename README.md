@@ -1,7 +1,7 @@
 <!-- About v.1.3.0 -->
 <!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
-![profile banner](github-profile-banner-page.png)
+![profile banner](github-profile-banner.png)
 
 # ℹ️ About:  
 
