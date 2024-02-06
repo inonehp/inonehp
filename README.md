@@ -7,7 +7,7 @@
 
 👋 Hello.  
 🌱 I’m currently learning JavaScript and how to use GitHub.  
-👍 I like web design, web development, and coding.
+👍 I like web design and coding.
 
 ## 🐞 Debug:
 - **🎨 CSS:**
