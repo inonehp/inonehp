@@ -283,35 +283,80 @@
          result="composite2"
          id="feComposite3906" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1179"
+       x="-0.026967853"
+       y="-0.062876557"
+       width="1.0539357"
+       height="1.1257531">
+      <feFlood
+         flood-opacity="0.27451"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1169" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1171" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="12.5799"
+         result="blur"
+         id="feGaussianBlur1173" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1175" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1177" />
+    </filter>
   </defs>
   <rect
-     style="opacity:1;fill:#f3efe6;fill-opacity:1;stroke-width:0"
-     id="rect32534"
+     style="fill:#f3efe6;fill-opacity:1;stroke:none;stroke-width:0.802291"
+     id="rect5334-9"
      width="1280"
      height="640"
      x="0"
      y="0" />
-  <text
-     xml:space="preserve"
-     id="text5952"
-     style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#555753"
-     rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-     x="273.76562"
-     y="0"
-     transform="translate(-36.130163,128.85619)"><tspan
-       x="355.46703"
-       y="203.40781"
-       id="tspan61227"><tspan
-         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-         id="tspan61225">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
-  <text
-     xml:space="preserve"
-     id="text36752"
-     style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36754);fill:#555753"
-     transform="translate(229.28851,-69.361231)"><tspan
-       x="277.93164"
-       y="467.36016"
-       id="tspan61231"><tspan
-         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-         id="tspan61229">HTML5 + CSS3 = PHP8</tspan></tspan></text>
+  <rect
+     style="fill:#f3efe6;fill-opacity:1;stroke:none;stroke-width:0.649917;filter:url(#filter1179)"
+     id="rect5334"
+     width="1119.5463"
+     height="480.17514"
+     x="80.593933"
+     y="80.043152" />
+  <g
+     id="g881">
+    <text
+       xml:space="preserve"
+       id="text5952"
+       style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#555753"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       x="273.76562"
+       y="0"
+       transform="translate(-36.130163,128.85619)"><tspan
+         x="355.46703"
+         y="203.40781"
+         id="tspan9291"><tspan
+           style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
+           id="tspan9289">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text36752"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36754);fill:#555753"
+       transform="translate(229.28851,-69.361231)"><tspan
+         x="277.93164"
+         y="467.36016"
+         id="tspan9295"><tspan
+           style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
+           id="tspan9293">HTML5 + CSS3 = PHP8</tspan></tspan></text>
+  </g>
 </svg>
