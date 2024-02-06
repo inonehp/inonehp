@@ -1,4 +1,4 @@
-<!-- About v.1.3.0 -->
+<!-- About v.1.3.1 -->
 <!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
 ![profile banner](github-profile-banner-page.png)
@@ -18,14 +18,17 @@
 - `console.table("test");`
   
 ---
-### 📄 Examples of links:
+
+**📄 Examples of links:**  
+  
 🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
 🔗 [W3Schools](https://www.w3schools.com/)  
 🔗 [Web.dev](https://web.dev/)  
----
   
+---
 > [!NOTE]
-> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
   
 
 
