@@ -10,12 +10,14 @@
 👍 I like web design and coding.
 
 ## 🐞 Debug:
-- **🎨 CSS:**
-- `.class { border 1px solid red; }`
-- **📜 JavaScript:**
-- `alert("test");`
-- `console.log("test");`
-- `console.table("test");`
+**🎨 CSS:**  
+`.class { border 1px solid red; }`  
+
+  
+**📜 JavaScript:**  
+`alert("test");`  
+`console.log("test");`  
+`console.table("test");`  
   
 
 <!--**📄 Examples of links:**  
