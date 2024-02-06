@@ -17,15 +17,18 @@
 - `console.log("test");`
 - `console.table("test");`
   
----
 
-**📄 Examples of links:**  
+<!--**📄 Examples of links:**  
+---
   
 🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
 🔗 [W3Schools](https://www.w3schools.com/)  
-🔗 [Web.dev](https://web.dev/)  
+🔗 [Web.dev](https://web.dev/)
   
+-->
+
 ---
+  
 > [!NOTE]
 > [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
