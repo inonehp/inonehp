@@ -3,7 +3,7 @@
 
 ![profile banner](github-profile-banner-page.png)
 
-# About:  
+# 👤 About:  
 
 👋 Hello.  
 🌱 I’m currently learning JavaScript and how to use GitHub.  
