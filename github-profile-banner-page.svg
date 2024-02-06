@@ -326,13 +326,6 @@
      height="640"
      x="0"
      y="0" />
-  <rect
-     style="fill:#f3efe6;fill-opacity:1;stroke:none;stroke-width:0.649917;filter:url(#filter1179)"
-     id="rect5334"
-     width="1119.5463"
-     height="480.17514"
-     x="80.593933"
-     y="80.043152" />
   <g
      id="g881">
     <text
@@ -345,9 +338,9 @@
        transform="translate(-36.130163,128.85619)"><tspan
          x="355.46703"
          y="203.40781"
-         id="tspan9291"><tspan
+         id="tspan1111"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan9289">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
+           id="tspan1109">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text36752"
@@ -355,8 +348,8 @@
        transform="translate(229.28851,-69.361231)"><tspan
          x="277.93164"
          y="467.36016"
-         id="tspan9295"><tspan
+         id="tspan1115"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-           id="tspan9293">HTML5 + CSS3 = PHP8</tspan></tspan></text>
+           id="tspan1113">HTML5 + CSS3 = PHP8</tspan></tspan></text>
   </g>
 </svg>
