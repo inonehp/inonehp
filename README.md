@@ -1,7 +1,12 @@
 <!-- About v.1.3.1 -->
 <!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
-![profile banner](github-profile-banner-page.png)
+<!--![profile banner](github-profile-banner-page.png)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-profile-banner-page-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="github-profile-banner-page-light.png">
+</picture>
+
 
 # 👤 About:  
 
