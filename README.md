@@ -16,6 +16,8 @@
 👍 I like web design and coding.  
 > ⚡ Fun fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
+---
+  
 ## 🐞 Debug:
 **🎨 CSS:**  
 `.class { border 1px solid red; }`  
@@ -26,10 +28,11 @@
 `console.log("test");`  
 `console.table("test");`  
 
-    
+---
+  
 ## 📄 Doc.
   
-🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
+🔗 [MDN Web Docs](https://developer.mozilla.org/)  
 🔗 [W3Schools](https://www.w3schools.com/)  
 🔗 [Web.dev](https://web.dev/)
   
