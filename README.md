@@ -3,9 +3,9 @@
 
 <!--![profile banner](github-profile-banner-page.png)-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/github-profile-banner-page-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/github-profile-banner-page-light.png">
-  <img alt="banner" src="/github-profile-banner-page-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/github-profile-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/github-profile-banner-light.png">
+  <img alt="banner" src="/github-profile-banner-light.png">
 </picture>
 
 
