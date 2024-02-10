@@ -342,6 +342,12 @@
        width="802.66345"
        height="170.69012"
        id="rect36754-1" />
+    <rect
+       x="274.26099"
+       y="159.00787"
+       width="804.21716"
+       height="151.05453"
+       id="rect5954-3" />
   </defs>
   <rect
      style="display:inline;fill:#f9f7f2;fill-opacity:1;stroke:none;stroke-width:0.802291"
@@ -357,19 +363,35 @@
      height="640"
      x="0"
      y="0" />
+  <g
+     id="g14060">
+    <text
+       xml:space="preserve"
+       id="text5952"
+       style="font-size:56px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#3b3b3b;fill-opacity:1"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
+       x="273.76562"
+       y="0"
+       transform="translate(-36.622158,128.96019)"><tspan
+         x="509.68657"
+         y="210.80781"
+         id="tspan14564"><tspan
+           style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
+           id="tspan14562">Hello World!</tspan></tspan></text>
+  </g>
   <text
      xml:space="preserve"
-     id="text5952"
-     style="font-size:56px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#555753"
-     rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
+     id="text5952-9"
+     style="font-size:28px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954-3);fill:#3b3b3b;fill-opacity:1"
+     rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
      x="273.76562"
      y="0"
-     transform="translate(-36.622158,128.96019)"><tspan
-       x="509.68657"
-       y="210.80781"
-       id="tspan6887"><tspan
-         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-         id="tspan6885">Hello World!</tspan></tspan></text>
+     transform="translate(143.33465,220.1647)"><tspan
+       x="274.26172"
+       y="184.90781"
+       id="tspan14568"><tspan
+         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
+         id="tspan14566">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
   <g
      id="g881-1"
      transform="translate(3.6132889e-8,-30.251464)"
@@ -384,9 +406,9 @@
        transform="translate(-36.130163,128.85619)"><tspan
          x="355.46703"
          y="203.40781"
-         id="tspan6891"><tspan
+         id="tspan14572"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan6889">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
+           id="tspan14570">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text36752-9"
@@ -394,8 +416,8 @@
        transform="translate(171.43668,-69.361231)"><tspan
          x="277.93164"
          y="467.36016"
-         id="tspan6895"><tspan
+         id="tspan14576"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-           id="tspan6893">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
+           id="tspan14574">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
   </g>
 </svg>
