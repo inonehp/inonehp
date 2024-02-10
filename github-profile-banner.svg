@@ -350,7 +350,7 @@
        id="rect5954-3" />
   </defs>
   <rect
-     style="display:inline;fill:#f9f7f2;fill-opacity:1;stroke:none;stroke-width:0.802291"
+     style="display:inline;fill:#f6f0e7;fill-opacity:1;stroke:none;stroke-width:0.802291"
      id="rect5334-9"
      width="1280"
      height="640"
@@ -375,9 +375,9 @@
        transform="translate(-36.622158,128.96019)"><tspan
          x="509.68657"
          y="210.80781"
-         id="tspan14564"><tspan
+         id="tspan1230"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan14562">Hello World!</tspan></tspan></text>
+           id="tspan1228">Hello World!</tspan></tspan></text>
   </g>
   <text
      xml:space="preserve"
@@ -389,9 +389,9 @@
      transform="translate(143.33465,220.1647)"><tspan
        x="274.26172"
        y="184.90781"
-       id="tspan14568"><tspan
+       id="tspan1234"><tspan
          style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-         id="tspan14566">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
+         id="tspan1232">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
   <g
      id="g881-1"
      transform="translate(3.6132889e-8,-30.251464)"
@@ -406,9 +406,9 @@
        transform="translate(-36.130163,128.85619)"><tspan
          x="355.46703"
          y="203.40781"
-         id="tspan14572"><tspan
+         id="tspan1238"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan14570">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
+           id="tspan1236">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text36752-9"
@@ -416,8 +416,8 @@
        transform="translate(171.43668,-69.361231)"><tspan
          x="277.93164"
          y="467.36016"
-         id="tspan14576"><tspan
+         id="tspan1242"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-           id="tspan14574">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
+           id="tspan1240">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
   </g>
 </svg>
