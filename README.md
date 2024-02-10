@@ -32,9 +32,9 @@
   
 ## 📄 Doc.
   
-🔗 [MDN Web Docs](https://developer.mozilla.org/)
-🔗 [W3Schools](https://www.w3schools.com/)
-🔗 [Web.dev](https://web.dev/)
+🔗 [MDN Web Docs](https://developer.mozilla.org/),
+🔗 [W3Schools](https://www.w3schools.com/),
+🔗 [Web.dev](https://web.dev/),
   
 ---
   
