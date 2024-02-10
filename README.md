@@ -1,4 +1,4 @@
-<!-- About v.1.3.1 -->
+<!-- About v.1.4.0 -->
 <!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
 <!--![profile banner](github-profile-banner-page.png)-->
@@ -26,22 +26,28 @@
 `console.table("test");`  
   
 
-<!--**📄 Examples of links:**  
----
+## 📄 Doc.
   
 🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
 🔗 [W3Schools](https://www.w3schools.com/)  
 🔗 [Web.dev](https://web.dev/)
   
--->
-
 ---
   
 > [!NOTE]
-> [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+> - [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+> - This about page was built using [GitHub](https://github.com/)  
 
+  ---
+🚀 Speed dial (GitHub explore):  
+🏷️ [GitHub Profile](https://github.com/topics/github-profile?s=updated),
+🏷️ [Profile](https://github.com/topics/profile?s=updated),
+🏷️ [Website](https://github.com/topics/website?s=updated),
+🏷️ [HTML](https://github.com/topics/HTML?s=updated),
+🏷️ [CSS](https://github.com/topics/css?s=updated),
+🏷️ [JavaScript](https://github.com/topics/javascript?s=updated),
+🏷️ [Game](https://github.com/topics/game?s=updated),
   
-
 
 
 <!--
