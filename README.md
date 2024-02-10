@@ -44,8 +44,8 @@
   
 ---
   
-### 🚀 Speed dial (GitHub explore):  
-🏷️ [GitHub Profile](https://github.com/topics/github-profile?s=updated),
+### 🏷️ Speed dial (GitHub explore):  
+[GitHub Profile](https://github.com/topics/github-profile?s=updated),
 [Profile](https://github.com/topics/profile?s=updated),
 [Website](https://github.com/topics/website?s=updated),
 [HTML](https://github.com/topics/HTML?s=updated),
