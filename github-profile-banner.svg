@@ -350,7 +350,7 @@
        id="rect5954-3" />
   </defs>
   <rect
-     style="display:inline;fill:#f6f0e7;fill-opacity:1;stroke:none;stroke-width:0.802291"
+     style="display:inline;fill:#f8f4ef;fill-opacity:1;stroke:none;stroke-width:0.802291"
      id="rect5334-9"
      width="1280"
      height="640"
@@ -367,7 +367,8 @@
      id="g902"
      transform="translate(0,-35.060257)">
     <g
-       id="g14060">
+       id="g14060"
+       transform="translate(0,35.060255)">
       <text
          xml:space="preserve"
          id="text5952"
@@ -378,23 +379,10 @@
          transform="translate(-36.622158,128.96019)"><tspan
            x="509.68657"
            y="210.80781"
-           id="tspan1156"><tspan
+           id="tspan7842"><tspan
              style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-             id="tspan1154">Hello World!</tspan></tspan></text>
+             id="tspan7840">Hello World!</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text5952-9"
-       style="font-size:28px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954-3);fill:#3b3b3b;fill-opacity:1"
-       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-       x="273.76562"
-       y="0"
-       transform="translate(143.33465,220.1647)"><tspan
-         x="274.26172"
-         y="184.90781"
-         id="tspan1160"><tspan
-           style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-           id="tspan1158">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
   </g>
   <g
      id="g881-1"
@@ -410,9 +398,9 @@
        transform="translate(-36.130163,128.85619)"><tspan
          x="355.46703"
          y="203.40781"
-         id="tspan1164"><tspan
+         id="tspan7846"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-           id="tspan1162">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
+           id="tspan7844">console.log(&quot;Hello World!&quot;);</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text36752-9"
@@ -420,8 +408,8 @@
        transform="translate(171.43668,-69.361231)"><tspan
          x="277.93164"
          y="467.36016"
-         id="tspan1168"><tspan
+         id="tspan7850"><tspan
            style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold'"
-           id="tspan1166">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
+           id="tspan7848">HTML, CSS, JavaScript, and PHP</tspan></tspan></text>
   </g>
 </svg>
