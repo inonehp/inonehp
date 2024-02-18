@@ -51,11 +51,9 @@
 [#HTML](https://github.com/topics/HTML?s=updated),
 [#CSS](https://github.com/topics/css?s=updated),
 [#JavaScript](https://github.com/topics/javascript?s=updated),
-[#Game](https://github.com/topics/game?s=updated),
-[#App](https://github.com/topics/app?s=updated),
+
+
   
-
-
 <!--
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
