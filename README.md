@@ -15,7 +15,7 @@
 🌱 I’m currently learning JavaScript and how to use GitHub.  
 👍 I like web design and coding.  
 > ⚡ Fun fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-
+<!--
 ---
   
 ## 🐞 Debug:
@@ -26,15 +26,7 @@
 **📜 JavaScript:**  
 `alert("test");`  
 `console.log("test");`  
-`console.table("test");`  
-
----
-  
-## 📄 Doc.
-  
-🔗 [MDN Web Docs](https://developer.mozilla.org/),
-🔗 [W3Schools](https://www.w3schools.com/),
-🔗 [Web.dev](https://web.dev/),
+`console.table("test");`  -->
   
 ---
   
@@ -42,7 +34,7 @@
 > - [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 > - This about page was built using [GitHub](https://github.com/)  
   
----
+<!--
   
 ### 🏷️ Speed dial (GitHub explore):  
 [#GitHub Profile](https://github.com/topics/github-profile?s=updated),
@@ -51,7 +43,7 @@
 [#HTML](https://github.com/topics/HTML?s=updated),
 [#CSS](https://github.com/topics/css?s=updated),
 [#JavaScript](https://github.com/topics/javascript?s=updated),
-
+-->
 
   
 <!--
