@@ -1023,6 +1023,39 @@
        height="218.8226"
        id="rect3342" />
     <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter20082"
+       x="-0.03916654"
+       y="-0.19513191"
+       width="1.0783331"
+       height="3.1028399">
+      <feFlood
+         flood-opacity="0.364706"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood20072" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite20074" />
+      <feOffset
+         dx="0"
+         dy="27.5102"
+         result="offset"
+         id="feOffset20078" />
+      <feComposite
+         in="offset"
+         in2="offset"
+         operator="atop"
+         result="composite2"
+         id="feComposite20080" />
+      <feGaussianBlur
+         stdDeviation="1.09772"
+         id="feGaussianBlur20188" />
+    </filter>
+    <filter
        style="color-interpolation-filters:sRGB"
        id="filter20316"
        x="-0.23497324"
@@ -1041,9 +1074,97 @@
      height="640"
      x="0"
      y="0" />
+  <text
+     xml:space="preserve"
+     id="text5952"
+     style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#414141;fill-opacity:1"
+     rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
+     x="273.76562"
+     y="0"
+     transform="matrix(1.049381,0,0,1.049381,-69.99666,186.03625)"><tspan
+       x="533.4985"
+       y="203.40781"
+       id="tspan21786"><tspan
+         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
+         id="tspan21784">Hello World!</tspan></tspan></text>
+  <g
+     id="g1149"
+     transform="matrix(0.7196501,0,0,0.7196501,374.66228,48.610005)">
+    <circle
+       style="display:inline;fill:#4f7a7d;fill-opacity:1;stroke:#454545;stroke-width:0.799431;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4109-9"
+       cx="368.7038"
+       cy="279.12537"
+       r="101.72609" />
+    <circle
+       style="fill:#f1e9dd;fill-opacity:1;stroke-width:0"
+       id="path4151-4"
+       cx="368.7038"
+       cy="279.12537"
+       r="87.764366" />
+    <path
+       style="display:inline;fill:#386c84;fill-opacity:1;stroke-width:0.398929"
+       id="path439-8"
+       d="m 351.3714,237.91484 a 16.718568,16.718568 0 0 1 -16.71872,16.71836 16.718568,16.718568 0 0 1 -16.71842,-16.71867 16.718568,16.718568 0 0 1 16.71862,-16.71847 16.718568,16.718568 0 0 1 16.71852,16.71857 h -16.71856 z" />
+    <path
+       style="display:inline;fill:#386c84;fill-opacity:1;stroke-width:0.516135"
+       id="path439-3-1"
+       d="m 436.74693,274.84662 c 10.96983,15.2387 -14.64622,19.12297 -27.5713,35.30525 -13.58387,17.0071 -15.10945,41.0094 -28.88973,34.08498 -13.34724,-6.70681 -26.1467,-47.10954 -11.0534,-66.65907 12.22793,-15.83817 56.60595,-12.00358 67.51406,-2.73145 l -33.30266,29.46799 z" />
+    <g
+       id="g87169-2"
+       style="display:inline;fill:#456eac;fill-opacity:1"
+       transform="matrix(0.38312157,0,0,0.38312157,269.81839,179.35095)">
+      <g
+         id="g87161-9"
+         style="fill:#456eac;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           id="text6710-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:2.05;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6712-3);display:inline;fill:#456eac;fill-opacity:1;stroke:none"
+           transform="rotate(89.221677,232.91514,343.38789)"
+           x="0"
+           y="0"><tspan
+             x="108.98828"
+             y="420.20692"
+             id="tspan21790"><tspan
+               style="text-align:justify"
+               id="tspan21788">inonehp</tspan></tspan></text>
+        <rect
+           style="fill:#456eac;fill-opacity:1;stroke-width:7.58995"
+           id="rect42979-9"
+           width="7.152"
+           height="166.9959"
+           x="145.23047"
+           y="226.29008"
+           rx="0"
+           ry="0" />
+      </g>
+      <rect
+         style="fill:#456eac;fill-opacity:1;stroke-width:22.1359"
+         id="rect77954-0"
+         width="10.208242"
+         height="7.1524134"
+         x="145.2299"
+         y="224.26358" />
+    </g>
+  </g>
+  <rect
+     style="fill:#4f7a7d;fill-opacity:1;stroke-width:26.1861"
+     id="rect17073"
+     width="800"
+     height="15"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:#4f7a7d;fill-opacity:1;stroke-width:26.1861"
+     id="rect17073-5"
+     width="800"
+     height="15"
+     x="480"
+     y="625" />
   <g
      id="g20803"
-     transform="matrix(0.92214693,0,0,0.92214693,126.86009,-38.369822)">
+     transform="matrix(0.92214693,0,0,0.92214693,128.90417,26.210144)">
     <ellipse
        style="opacity:0.853617;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter20316)"
        id="path20292"
@@ -1072,31 +1193,4 @@
          id="path17775" />
     </g>
   </g>
-  <text
-     xml:space="preserve"
-     id="text5952"
-     style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#414141;fill-opacity:1"
-     rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
-     x="273.76562"
-     y="0"
-     transform="matrix(1.049381,0,0,1.049381,-69.99666,124.32842)"><tspan
-       x="533.4985"
-       y="203.40781"
-       id="tspan1908"><tspan
-         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-         id="tspan1906">Hello World!</tspan></tspan></text>
-  <rect
-     style="fill:#4f7a7d;fill-opacity:1;stroke-width:21.3809"
-     id="rect17073"
-     width="800"
-     height="10"
-     x="0"
-     y="0" />
-  <rect
-     style="fill:#4f7a7d;fill-opacity:1;stroke-width:21.3809"
-     id="rect17073-5"
-     width="800"
-     height="10"
-     x="480"
-     y="630" />
 </svg>
