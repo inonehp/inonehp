@@ -1066,6 +1066,17 @@
          stdDeviation="7.1527436"
          id="feGaussianBlur20318" />
     </filter>
+    <filter
+       id="filter20316-8"
+       x="-0.23497202"
+       y="-0.62040423"
+       width="1.469944"
+       height="2.2408085"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="7.1527436"
+         id="feGaussianBlur2" />
+    </filter>
   </defs>
   <rect
      style="fill:#faf8f6;fill-opacity:1;stroke:none;stroke-width:0.802291"
@@ -1077,16 +1088,16 @@
   <text
      xml:space="preserve"
      id="text5952"
-     style="font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#414141;fill-opacity:1"
+     style="font-size:53.3648px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5954);fill:#414141;fill-opacity:1"
      rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
      x="273.76562"
      y="0"
-     transform="matrix(1.049381,0,0,1.049381,-69.99666,186.03625)"><tspan
-       x="533.4985"
-       y="203.40781"
-       id="tspan21786"><tspan
-         style="font-weight:600;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:center;text-anchor:middle"
-         id="tspan21784">Hello World!</tspan></tspan></text>
+     transform="matrix(1.049381,0,0,1.049381,-70.658629,191.20991)"><tspan
+       x="513.35733"
+       y="206.29164"
+       id="tspan17585"><tspan
+         style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:center;text-anchor:middle"
+         id="tspan17583">Hello World!</tspan></tspan></text>
   <g
      id="g1149"
      transform="matrix(0.7196501,0,0,0.7196501,374.66228,48.610005)">
@@ -1126,9 +1137,9 @@
            y="0"><tspan
              x="108.98828"
              y="420.20692"
-             id="tspan21790"><tspan
+             id="tspan17589"><tspan
                style="text-align:justify"
-               id="tspan21788">inonehp</tspan></tspan></text>
+               id="tspan17587">inonehp</tspan></tspan></text>
         <rect
            style="fill:#456eac;fill-opacity:1;stroke-width:7.58995"
            id="rect42979-9"
@@ -1149,48 +1160,53 @@
     </g>
   </g>
   <rect
-     style="fill:#4f7a7d;fill-opacity:1;stroke-width:26.1861"
+     style="fill:#414141;fill-opacity:1;stroke-width:26.1861"
      id="rect17073"
      width="800"
      height="15"
      x="0"
      y="0" />
   <rect
-     style="fill:#4f7a7d;fill-opacity:1;stroke-width:26.1861"
+     style="fill:#414141;fill-opacity:1;stroke-width:26.1861"
      id="rect17073-5"
      width="800"
      height="15"
      x="480"
      y="625" />
   <g
-     id="g20803"
-     transform="matrix(0.92214693,0,0,0.92214693,128.90417,26.210144)">
+     id="g21284"
+     transform="translate(-22.287387,62.396276)">
     <ellipse
-       style="opacity:0.853617;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter20316)"
-       id="path20292"
-       cx="304.57156"
-       cy="436.41132"
-       rx="36.528809"
-       ry="13.835232"
-       transform="matrix(1.0411727,0,0,0.37741576,-13.399247,265.0148)" />
+       transform="matrix(0.96011,0,0,0.34803,114.5,206.01)"
+       cx="304.57001"
+       cy="436.41"
+       rx="36.528999"
+       ry="13.835"
+       filter="url(#filter20316)"
+       opacity="0.85362"
+       style="mix-blend-mode:normal;filter:url(#filter20316-8)"
+       id="ellipse9" />
     <g
-       id="g19228"
-       transform="translate(7.1366903,-3.1957489)">
-      <ellipse
-         style="fill:#ff9900;fill-opacity:1;stroke-width:20"
-         id="path1040"
-         cx="296.35437"
-         cy="391.71793"
-         rx="47.472469"
-         ry="37.278938" />
+       id="g17">
+      <circle
+         cx="405.54001"
+         cy="320.56"
+         r="34.272999"
+         fill="#ff9900"
+         stroke="#e28800"
+         id="circle11" />
       <path
-         style="fill:none;stroke:#064c07;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 297.58233,371.8882 c -0.48406,-18.86032 7.99171,-28.94984 26.02184,-35.44141"
-         id="path6808" />
+         d="m 406.58,296.57 c 3.0471,-17.129 12.568,-24.678 30.057,-27.212"
+         fill="none"
+         stroke="#064c07"
+         stroke-width="2.7664"
+         id="path13" />
       <path
-         style="fill:#399e32;fill-opacity:1;stroke:#006906;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 301.6894,350.36874 -15.29544,1.86357 c -19.67876,-18.65328 -34.28968,-8.1416 -46.027,18.90743 17.50817,2.36112 38.48673,18.60414 46.027,-18.90743"
-         id="path17775" />
+         d="m 411.64,281.77 -14.105,1.7185 c -18.147,-17.201 -31.62,-7.5078 -42.444,17.435 16.145,2.1773 35.49,17.156 42.444,-17.435"
+         fill="#399e32"
+         stroke="#006906"
+         stroke-width="0.92215"
+         id="path15" />
     </g>
   </g>
 </svg>
