@@ -12,7 +12,7 @@
 # 👨🏻‍💻 About:  
 
 👋 Hello.  
-🌱 I’m currently learning JavaScript.  
+🌱 I’m currently learning JavaScript and GitHub.  
 👍 I like web design and coding.  
 📁 Almost all projects are in the home page repository.  
 ⚡ Fun fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)  
