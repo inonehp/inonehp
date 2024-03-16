@@ -13,12 +13,12 @@
 
 👋 Hello.  
 🌱 I’m currently learning JavaScript.  
-📁 The projects are in the site's repository.
+📁 The projects are in the site's repository.  
 ⚡ Fun fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)  
 
 ---
   
-## 🐞 Debug:
+### 🐞 Debug:
 **🎨 CSS:**  
 `.class { border: 1px solid red; }`  
 
@@ -36,7 +36,7 @@
   
 <!--
   
-### 🏷️ Speed dial (GitHub explore):  
+#### 🏷️ Speed dial (GitHub explore):  
 [#GitHub Profile](https://github.com/topics/github-profile?s=updated),
 [#Profile](https://github.com/topics/profile?s=updated),
 [#Website](https://github.com/topics/website?s=updated),
