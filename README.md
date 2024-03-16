@@ -1,4 +1,4 @@
-<!-- About v.1.4.0 -->
+<!-- About v.1.4.1 -->
 <!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
 <!--![profile banner](github-profile-banner-page.png)-->
@@ -20,13 +20,13 @@
   
 ## 🐞 Debug:
 **🎨 CSS:**  
-`.class { border 1px solid red; }`  
+`.class { border: 1px solid red; }`  
 
   
 **📜 JavaScript:**  
 `alert("test");`  
 `console.log("test");`  
-`console.table("for object and all");`  
+`console.table("test"); - A trick to see an object`  
   
 ---
   
