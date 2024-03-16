@@ -26,7 +26,7 @@
 **📜 JavaScript:**  
 `alert("test");`  
 `console.log("test");`  
-`console.table("test");`  
+`console.table("for object and all");`  
   
 ---
   
