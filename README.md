@@ -9,7 +9,7 @@
 </picture>
 
 
-# 👨🏻‍💻 About:  
+# About:  
 
 Hello.  
 I’m currently learning JavaScript.  
