@@ -34,37 +34,41 @@
      height="640"
      fill="#faf8f6"
      id="rect7" />
-  <ellipse
-     transform="matrix(.96011 0 0 .34803 114.5 206.01)"
-     cx="304.57"
-     cy="436.41"
-     rx="36.529"
-     ry="13.835"
-     filter="url(#filter20316)"
-     opacity=".85362"
-     style="mix-blend-mode:normal"
-     id="ellipse9" />
   <g
-     id="g17">
-    <circle
-       cx="405.54001"
-       cy="320.56"
-       r="34.272999"
-       fill="#ff9900"
-       stroke="#e28800"
-       id="circle11" />
-    <path
-       d="m 406.58,296.57 c 3.0471,-17.129 12.568,-24.678 30.057,-27.212"
-       fill="none"
-       stroke="#064c07"
-       stroke-width="2.7664"
-       id="path13" />
-    <path
-       d="m 411.64,281.77 -14.105,1.7185 c -18.147,-17.201 -31.62,-7.5078 -42.444,17.435 16.145,2.1773 35.49,17.156 42.444,-17.435"
-       fill="#399e32"
-       stroke="#006906"
-       stroke-width="0.92215"
-       id="path15" />
+     id="g840"
+     style="display:none">
+    <ellipse
+       transform="matrix(0.96011,0,0,0.34803,114.5,206.01)"
+       cx="304.57001"
+       cy="436.41"
+       rx="36.528999"
+       ry="13.835"
+       filter="url(#filter20316)"
+       opacity="0.85362"
+       style="mix-blend-mode:normal"
+       id="ellipse9" />
+    <g
+       id="g17">
+      <circle
+         cx="405.54001"
+         cy="320.56"
+         r="34.272999"
+         fill="#ff9900"
+         stroke="#e28800"
+         id="circle11" />
+      <path
+         d="m 406.58,296.57 c 3.0471,-17.129 12.568,-24.678 30.057,-27.212"
+         fill="none"
+         stroke="#064c07"
+         stroke-width="2.7664"
+         id="path13" />
+      <path
+         d="m 411.64,281.77 -14.105,1.7185 c -18.147,-17.201 -31.62,-7.5078 -42.444,17.435 16.145,2.1773 35.49,17.156 42.444,-17.435"
+         fill="#399e32"
+         stroke="#006906"
+         stroke-width="0.92215"
+         id="path15" />
+    </g>
   </g>
   <text
      transform="matrix(1.0494,0,0,1.0494,-69.997,124.33)"
@@ -97,9 +101,9 @@
   <text
      xml:space="preserve"
      id="text5972"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;fill:#000000;fill-opacity:1;shape-inside:url(#rect5974)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5974);fill:#000000;fill-opacity:1"
      transform="translate(-61.019531,-28.546481)"><tspan
        x="529.06836"
        y="369.45078"
-       id="tspan891">Hello World!</tspan></text>
+       id="tspan894">Hello World!</tspan></text>
 </svg>

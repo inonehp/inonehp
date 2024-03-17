@@ -1095,9 +1095,9 @@
      transform="matrix(1.049381,0,0,1.049381,-70.658629,191.20991)"><tspan
        x="513.35733"
        y="206.29164"
-       id="tspan1962"><tspan
+       id="tspan1479"><tspan
          style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:center;text-anchor:middle"
-         id="tspan1960">Hello World!</tspan></tspan></text>
+         id="tspan1477">Hello World!</tspan></tspan></text>
   <g
      id="g1149"
      transform="matrix(0.7196501,0,0,0.7196501,374.66228,48.610005)">
@@ -1137,9 +1137,9 @@
            y="0"><tspan
              x="108.98828"
              y="420.20692"
-             id="tspan1966"><tspan
+             id="tspan1483"><tspan
                style="text-align:justify"
-               id="tspan1964">inonehp</tspan></tspan></text>
+               id="tspan1481">inonehp</tspan></tspan></text>
         <rect
            style="fill:#456eac;fill-opacity:1;stroke-width:7.58995"
            id="rect42979-9"
@@ -1175,7 +1175,8 @@
      y="635" />
   <g
      id="g21284"
-     transform="translate(-22.287387,62.396276)">
+     transform="translate(-22.287387,62.396276)"
+     style="display:none">
     <ellipse
        transform="matrix(0.96011,0,0,0.34803,114.5,206.01)"
        cx="304.57001"
