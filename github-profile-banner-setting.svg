@@ -1077,6 +1077,18 @@
          stdDeviation="7.1527436"
          id="feGaussianBlur2" />
     </filter>
+    <rect
+       x="407.77213"
+       y="294.5014"
+       width="495.8342"
+       height="345.75677"
+       id="rect24945" />
+    <rect
+       x="407.77213"
+       y="294.5014"
+       width="346.46396"
+       height="103.62584"
+       id="rect24945-4" />
   </defs>
   <rect
      style="fill:#faf8f6;fill-opacity:1;stroke:none;stroke-width:0.802291"
@@ -1095,9 +1107,9 @@
      transform="matrix(1.049381,0,0,1.049381,-70.658629,191.20991)"><tspan
        x="513.35733"
        y="206.29164"
-       id="tspan1479"><tspan
+       id="tspan52492"><tspan
          style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:center;text-anchor:middle"
-         id="tspan1477">Hello World!</tspan></tspan></text>
+         id="tspan52490">Hello World!</tspan></tspan></text>
   <g
      id="g1149"
      transform="matrix(0.7196501,0,0,0.7196501,374.66228,48.610005)">
@@ -1137,9 +1149,9 @@
            y="0"><tspan
              x="108.98828"
              y="420.20692"
-             id="tspan1483"><tspan
+             id="tspan52496"><tspan
                style="text-align:justify"
-               id="tspan1481">inonehp</tspan></tspan></text>
+               id="tspan52494">inonehp</tspan></tspan></text>
         <rect
            style="fill:#456eac;fill-opacity:1;stroke-width:7.58995"
            id="rect42979-9"
@@ -1210,4 +1222,22 @@
          id="path15" />
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     id="text24943-8"
+     style="font-size:14px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24945-4);fill:#414141;fill-opacity:1;stroke:none"
+     x="4500.4219"
+     y="0"
+     transform="translate(58.58252,143.13984)"><tspan
+       x="407.77148"
+       y="306.90664"
+       id="tspan52500"><tspan
+         dx="0 0 0 0 0 0 0 0 0.12831879 0 0 0 0 0 0 0 0.12831879 0 0 0 0 0 0 0 0.12832642 0 0 0 0 0 0 0 0.12831116 0 0 0 0 0 0 0 0.12832642"
+         style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:justify"
+         id="tspan52498">1001000 1100101 1101100 1101100 1101111 100000 </tspan></tspan><tspan
+       x="407.77148"
+       y="324.42461"
+       id="tspan52504"><tspan
+         style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:justify"
+         id="tspan52502">1010111 1101111 1110010 1101100 1100100 100001 </tspan></tspan></text>
 </svg>

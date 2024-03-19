@@ -26,6 +26,12 @@
          stdDeviation="7.1527436"
          id="feGaussianBlur2" />
     </filter>
+    <rect
+       x="407.77213"
+       y="294.5014"
+       width="346.46396"
+       height="103.62584"
+       id="rect24945-4" />
   </defs>
   <rect
      x="0"
@@ -98,12 +104,35 @@
      stroke-width="15.1187"
      id="rect23"
      style="fill:#000000;fill-opacity:1" />
-  <text
-     xml:space="preserve"
-     id="text5972"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5974);fill:#000000;fill-opacity:1"
-     transform="translate(-61.019531,-28.546481)"><tspan
-       x="529.06836"
-       y="369.45078"
-       id="tspan894">Hello World!</tspan></text>
+  <g
+     id="g1096"
+     transform="translate(0,-29.324829)"
+     style="fill:#181818;fill-opacity:1">
+    <text
+       xml:space="preserve"
+       id="text5972"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5974);fill:#181818;fill-opacity:1"
+       transform="translate(-61.019531,-28.546481)"><tspan
+         x="529.06836"
+         y="369.45078"
+         id="tspan1270">Hello World!</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text24943-8"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24945-4);fill:#181818;fill-opacity:1;stroke:none"
+       x="4500.4219"
+       y="0"
+       transform="translate(58.58252,75.730902)"><tspan
+         x="407.77148"
+         y="306.90664"
+         id="tspan1274"><tspan
+           dx="0 0 0 0 0 0 0 0 0.12831879 0 0 0 0 0 0 0 0.12831879 0 0 0 0 0 0 0 0.12832642 0 0 0 0 0 0 0 0.12831116 0 0 0 0 0 0 0 0.12832642"
+           style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:justify"
+           id="tspan1272">1001000 1100101 1101100 1101100 1101111 100000 </tspan></tspan><tspan
+         x="407.77148"
+         y="324.42461"
+         id="tspan1278"><tspan
+           style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';text-align:justify"
+           id="tspan1276">1010111 1101111 1110010 1101100 1100100 100001 </tspan></tspan></text>
+  </g>
 </svg>
