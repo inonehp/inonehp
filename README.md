@@ -13,13 +13,13 @@
 
 **H**ello. I like music, movies, and technology.  
 **I**’m currently learning JavaScript.  
-**T**he Projects are in the site's repository: [repository](https://github.com/inonehp/inonehp.pages.dev).  
+**T**he Projects are in the site's repository: [inonehp.pages.dev - repository](https://github.com/inonehp/inonehp.pages.dev).  
 
   ---
   
 **Other:**  
-Ideas for projects: [repository](https://github.com/inonehp/project-ideas)  
-Auto dark mode and auto light mode: [repository](https://github.com/inonehp/auto-dark-mode)  
+Ideas for projects: [project-ideas - repository](https://github.com/inonehp/project-ideas)  
+Auto dark mode and auto light mode: [auto-dark-mod - repository](https://github.com/inonehp/auto-dark-mode)  
 
   
 **F**un fact:  
