@@ -13,8 +13,17 @@
 
 **H**ello. I like music, movies, and technology.  
 **I**’m currently learning JavaScript.  
-**T**he projects are in the site's repository.  
-**F**un fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)  
+**T**he Projects are in the site's repository: [repository](https://github.com/inonehp/inonehp.pages.dev).  
+
+  ---
+  
+**Other:**  
+Ideas for projects: [repository](https://github.com/inonehp/project-ideas)  
+Auto dark mode and auto light mode: [repository](https://github.com/inonehp/auto-dark-mode)  
+
+  
+**F**un fact:  
+Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)  
 
 ---
   
