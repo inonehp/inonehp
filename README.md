@@ -1,4 +1,4 @@
-<!-- About v.1.4.1 -->
+<!-- About v.1.5.0 -->
 <!-- Logo: oval - inspired by Patreon new logo, before that it was a circle. -->
 
 <!--![profile banner](github-profile-banner-page.png)-->
@@ -27,7 +27,7 @@ Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wik
 
 ---
   
-### Debug:
+<!--### Debug:
 **CSS:**  
 `.class { border: 1px solid red; }`  
 
@@ -38,6 +38,7 @@ Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wik
 `console.table("test"); - A trick to see an object`  
   
 ---
+-->
   
 > [!NOTE]
 > - [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
