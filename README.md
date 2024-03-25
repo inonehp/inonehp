@@ -17,7 +17,7 @@
 
 ---
   
-<!--### Debug:
+### Debug:
 **CSS:**  
 `.class { border: 1px solid red; }`  
 
@@ -25,10 +25,10 @@
 **JavaScript:**  
 `alert("test");`  
 `console.log("test");`  
-`console.table("test"); - A trick to see an object`  
+`console.table("test"); - for object`  
   
 ---
--->
+
   
 > [!NOTE]
 > - [Markdown Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
