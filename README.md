@@ -28,7 +28,7 @@
 `console.table("Hello World!"); - (if the previous one doesn't work (object))`  
 
 **JavaScript display the result:**  
-`document.getElementById("body").innerHTML = 'Hello World!';`  
+`document.getElementById("id").innerHTML = 'Hello World!';`  
 `document.getElementsByTagName("body")[0].innerHTML = 'Hello World!';`  
 `document.getElementsByClassName("className")[0].innerHTML = 'Hello World!';`  
   
