@@ -31,6 +31,7 @@
 `document.getElementById("id").innerHTML = 'Hello World!';`  
 `document.getElementsByTagName("body")[0].innerHTML = 'Hello World!';`  
 `document.getElementsByClassName("className")[0].innerHTML = 'Hello World!';`  
+`[0]` - first elemet
   
 ---
 
