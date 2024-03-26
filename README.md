@@ -17,23 +17,6 @@
 - **F**un fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)  
   
 ---
-  
-### Other:
-**CSS debug:**  
-`.className { border: 1px solid red; }`  
-
-**JavaScript debug:**  
-`alert("Hello World!");`  
-`console.log("Hello World!");`  
-`console.table("Hello World!"); - (if the previous one doesn't work (object))`  
-
-**JavaScript display the result:**  
-`document.getElementById("id").innerHTML = 'Hello World!';`  
-`document.getElementsByTagName("body")[0].innerHTML = 'Hello World!';`  
-`document.getElementsByClassName("className")[0].innerHTML = 'Hello World!';`  
-`[0]` - first elemet
-  
----
 
   
 > [!NOTE]
