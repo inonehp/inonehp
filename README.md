@@ -18,15 +18,19 @@
   
 ---
   
-### Debug:
-**CSS:**  
-`.class { border: 1px solid red; }`  
+### Other:
+**CSS debug:**  
+`.className { border: 1px solid red; }`  
 
-  
-**JavaScript:**  
-`alert("test");`  
-`console.log("test");`  
-`console.table("test"); - (if the previous one doesn't work)`  
+**JavaScript debug:**  
+`alert("Hello World!");`  
+`console.log("Hello World!");`  
+`console.table("Hello World!"); - (if the previous one doesn't work (object))`  
+
+**JavaScript display the result:**  
+`document.getElementById("body").innerHTML = 'Hello World!';`  
+`document.getElementsByTagName("body")[0].innerHTML = 'Hello World!';`  
+`document.getElementsByClassName("className")[0].innerHTML = 'Hello World!';`  
   
 ---
 
