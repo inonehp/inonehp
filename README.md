@@ -12,7 +12,7 @@
 # About:  
 
 - **H**ello. I like music, movies, and technology.  
-- **M**y interests are web design and coding.  
+- **M**y interests are web design and programming. 
 - **I**'m currently learning JavaScript and English.  
 - **F**un fact: Tim Berners-Lee invented the World Wide Web while working at CERN in 1989 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)  
   
